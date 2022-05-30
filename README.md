@@ -1,7 +1,7 @@
 ![Screenshot](/images/fortuneCookie.gif)
 
 # Node Fortune Cookie Project
-    "You will live long enough to open many fortune cookies". If that is true, then thankfully these cookies have zero calories! They don't add on to you or your browser storage! Simply click the button to read your fortune!
+"You will live long enough to open many fortune cookies". If that is true, then thankfully these cookies have zero calories! They don't add on to you or your browser storage! Simply click the button to read your fortune!
 
 **Link to project:** https://github.com/ChrisThompsonDev/fortune-cookie
 
