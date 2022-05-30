@@ -23,5 +23,7 @@ A lot was learned about Node.js on this project. Trying to use arrow functions a
 
 ## Contributors:
 Chris Thompson: [GitHub](https://github.com/ChrisThompsonDev)
+
 Nick Maiorano: [GitHub](https://github.com/NPMaiorano)
+
 Mitchell Honda: [GitHub](https://github.com/hellomitchellh)
